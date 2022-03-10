@@ -1,0 +1,10 @@
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\bin\Debug\soru2.exe.config
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\bin\Debug\soru2.exe
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\bin\Debug\soru2.pdb
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\obj\Debug\soru2.csprojAssemblyReference.cache
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\obj\Debug\soru2.Form1.resources
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\obj\Debug\soru2.Properties.Resources.resources
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\obj\Debug\soru2.csproj.GenerateResource.cache
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\obj\Debug\soru2.csproj.CoreCompileInputs.cache
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\obj\Debug\soru2.exe
+C:\Users\aleyn\OneDrive\Masaüstü\cinnet\soru2\soru2\obj\Debug\soru2.pdb
