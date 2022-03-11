@@ -1,0 +1,14 @@
+BenimString isimli bir nesne bazlı sınıf oluşturulmuştur. 
+
+Bu sınıfta yer alacak üye metodlar:
+
+ElemanSayısı : nensedeki eleman sayısını verecek(string sınıfı size metodu gibi)
+Birleştir 	: İki string nesne değeri birleştirilecek(string sınıfı concat metodu gibi)
+ArayaGir	: verilen string sabit veya nesne değeri, kaynak nesnenin değerlerinin arasına yerleştirilecek yerleştirme parametre olarak verilen bir indisten itibaren olacaktır.(string sınıfı insert metodu gibi)
+DeğerAl	: kaynak nesne değerini belirtilen indisten başlayarak belirtilen karakter kadar geri döndüren bir fonksiyon ((string sınıfı insert metodu gibi)
+DiziyeAyır : Kaynak nesne değerini verilen karaktere göre diziye ayıracak((string sınıfı siplit metodu gibi)
+CharDiziyeDonustur	: kaynak nesne değerini char diziye dönüştürecek.)
+Degerİndis	: kaynak nesne içerisinde aranan nesnenin indisini döndürür.
+SıralaAZ	: kaynak nesnenin değerlerini a dan z ye sıralı döndürür
+SıralaZA	: kaynak nesnenin değerini z den a ya sırala.
+TersCevir	: kaynak nesnenin değerini ters çevirir
